@@ -1,0 +1,7 @@
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe.config
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.pdb
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csprojAssemblyReference.cache
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.exe
+C:\Users\SANTHOSH\source\repos\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.pdb
